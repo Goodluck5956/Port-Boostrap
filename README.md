@@ -6,7 +6,7 @@ James Boostrap page
 # My Bootstap Portfolio
 
 
-This project displays the work section and the about me section of my Bootsrap Portfolio page. The project was built with Html, Css,Vscode,Git and Github. 
+This project displays the work section and the about me section of my Bootsrap Portfolio page. The project was built with Html,Boostrap,Vscode and Github. 
 
 ![screenshot](/img/screenshotimg.png)
 
@@ -18,7 +18,7 @@ This project displays the work section and the about me section of my Bootsrap P
 
 ## Live Demo
 
-[Live Demo Link](https://goodluck5956.github.io/Mobile-Version/)
+[Live Demo Link](https://goodluck5956.github.io/Port-Boostrap/)
 
 ## Getting Started
 
